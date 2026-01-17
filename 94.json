@@ -1,0 +1,19 @@
+{
+  "jid": "94",
+  "lid": "95",
+  "name": "96",
+  "afk": -1,
+  "afkReason": "67",
+  "afkObj": "97",
+  "banned": false,
+  "ban_temporary": 0,
+  "ban_times": 0,
+  "premium": false,
+  "expired": 0,
+  "lastseen": 1768626144043,
+  "hit": 0,
+  "warning": 0,
+  "example": "98",
+  "limit": 50,
+  "balance": 10000
+}
