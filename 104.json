@@ -1,0 +1,17 @@
+{
+  "jid": "104",
+  "lid": "105",
+  "name": "106",
+  "afk": -1,
+  "afkReason": "67",
+  "afkObj": "107",
+  "banned": false,
+  "ban_temporary": 0,
+  "ban_times": 0,
+  "premium": false,
+  "expired": 0,
+  "lastseen": 1768556187136,
+  "hit": 0,
+  "warning": 0,
+  "example": "108"
+}
