@@ -1,4 +1,20 @@
 {
   "jid": "74",
-  "token": "258"
+  "lid": "75",
+  "name": null,
+  "afk": -1,
+  "afkReason": "67",
+  "afkObj": "76",
+  "banned": false,
+  "ban_temporary": 0,
+  "ban_times": 0,
+  "premium": false,
+  "expired": 0,
+  "lastseen": 1768659330146,
+  "hit": 0,
+  "warning": 0,
+  "example": "77",
+  "limit": 50,
+  "balance": 0,
+  "game": "78"
 }
