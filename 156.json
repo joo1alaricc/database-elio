@@ -1,20 +1,6 @@
 {
   "jid": "156",
-  "activity": 1768659597820,
-  "antidelete": true,
-  "antilink": false,
-  "antivirtex": false,
-  "antitagsw": true,
-  "filter": false,
-  "left": false,
-  "localonly": false,
-  "mute": false,
-  "viewonce": true,
-  "autosticker": true,
-  "member": "159",
-  "text_left": "67",
-  "text_welcome": "67",
-  "welcome": true,
-  "expired": 0,
-  "stay": false
+  "chat": 1,
+  "lastchat": 0,
+  "lastseen": 1768659598152
 }
