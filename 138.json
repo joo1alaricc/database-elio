@@ -1,0 +1,19 @@
+{
+  "jid": "138",
+  "lid": "139",
+  "name": "140",
+  "limit": 50,
+  "afk": -1,
+  "afkReason": "67",
+  "afkObj": "141",
+  "banned": false,
+  "ban_temporary": 0,
+  "ban_times": 0,
+  "premium": false,
+  "expired": 0,
+  "balance": 10000,
+  "lastseen": 1768659174010,
+  "hit": 0,
+  "warning": 0,
+  "example": "142"
+}
